@@ -102,20 +102,25 @@ textarea {
 
 
 body {
-  background-color: gray;
+  background-color: white;
   padding: 0px;
   margin: 0px;
 }
 
 
 body h1 {
-  color: white;
+  color: black;
   border: 3px solid black;
   border-radius: 10px;
   text-align: center;
   font-family: Arial;
   margin: 30px;
 
+}
+
+h2 {
+  text-align: center;
+  margin-top: 100px;
 }
 
 
