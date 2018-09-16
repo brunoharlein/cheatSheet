@@ -65,8 +65,11 @@ pre {
  * Remove the gray background on active links in IE 10.
  */
 
-a {
-  background-color: transparent;
+a:hover {
+  background-color: transparent;          /*Modification Button Terminal, Git, Mainpage*/
+  border: 1px solid rgb(0,123,255);
+  border-radius: 10px;
+
 }
 
 /**
